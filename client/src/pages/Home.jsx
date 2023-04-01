@@ -8,8 +8,7 @@ export default function Home() {
                 <h1 className="px-16 py-8">MaduMaja</h1>
 
                 <div>
-                    <a href="/login" className="button button-outline-vanilla">Se connecter</a>
-                    <a href="/login" className="button button-vanilla">S'inscire</a>
+                    <a href="/login" className="button button-vanilla">S'inscire | Se connecter</a>
                 </div>
             </div>
 
