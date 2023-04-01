@@ -5,7 +5,4 @@ Un site pour apprendre facilement à programmer en Python. Pensé par Amaury Tru
 En estonien, Madu veut dire serpent, et Maja maison. Madu Maja est en quelque sorte votre maison pour apprendre Python, là où notre mascotte Madu, accompagnée de ses fidèles amis Gat & Palm va vous apprendre à charmer les serpents (ici les pythons).
 
 # Spécifications techniques
-## Base de données
-Utilisation d'une base de données MySQL.
-
-Voir diagramme : https://drawsql.app/teams/ds-team/diagrams/madumaja
+Voir fichiers `docs/specs.md`
